@@ -1,0 +1,202 @@
+# 
+# LOGO
+-
+  - 11: "img|logo.png"
+  - 1: null
+
+# haerka
+-
+  - 11: "hr|"
+  - 1: null
+
+# O co to larmo?
+-
+  - 11: "img|header_01.png"
+  - 1: "img|legal.png"
+
+-
+  - 11: 
+    - 9: "p|Lorem ipsum"
+  - 1: "img|help.png"
+
+-
+  - 11: 
+    - 9: "p|Lorem ipsum"
+    - 3: "img|pic_01.png"
+  - 1: null
+
+# haerka
+-
+  - 11: "hr|"
+  - 1: null
+
+# Jak działa rejestr zabytków?
+-
+  - 11: "img|header_02.png"
+  - 1: "img|legal.png"
+
+-
+  - 11: 
+    - 9: "p|Lorem ipsum"
+  - 1: null
+
+-
+  - 11: 
+    - 9: "img|pic_02a.png"
+    - 3: "img|pic_02b.png"
+  - 1: null
+
+# haerka
+-
+  - 11: "hr|"
+  - 1: null
+
+# Jak wygląda rejestr zabytków w Katowicach?
+-
+  - 11: "img|header_03.png"
+  - 1: "img|legal.png"
+
+-
+  - 11: 
+    - 9: "h5|Kiedy budynek"
+  - 1: null
+
+-
+  - 11: 
+    - 9: "p|Lorem ipsum"
+  - 1: null
+
+-
+  - 11: 
+    - 9: "h5|Powstanie zabytku a..."
+  - 1: null
+
+-
+  - 11: 
+    - 9: "p|Lorem ipsum"
+  - 1: null
+
+-
+  - 11: 
+    - 9: "img|pic_03a.png"
+    - 3: "img|pic_03b.png"
+  - 1: "img|help.png"
+
+-
+  - 11: 
+    - 9: "h5|Liczba zabytkow w dekadach"
+  - 1: null
+
+-
+  - 11: 
+    - 9: "img|pic_03c.png"
+    - 3: "img|pic_03d.png"
+  - 1: "img|help.png"
+
+-
+  - 11: 
+    - 9: "h5|Liczba wpisow w dekadach"
+  - 1: null
+
+-
+  - 11: 
+    - 9: "img|pic_03e.png"
+    - 3: "img|pic_03f.png"
+  - 1: "img|help.png"
+
+# haerka
+-
+  - 11: "hr|"
+  - 1: null
+
+# Budynki w rejestrze a dotacje
+-
+  - 11: "img|header_04.png"
+  - 1: null
+
+-
+  - 11: 
+    - 9: "p|Lorem ipsum"
+  - 1: null
+
+-
+  - 11: 
+    - 9: "img|pic_04a.png"
+    - 3: "img|pic_04b.png"
+  - 1: "img|help.png"
+
+-
+  - 11: 
+    - 9: "img|pic_04c.png"
+    - 3: "img|pic_04d.png"
+  - 1: "img|help.png"
+
+# haerka
+-
+  - 11: "hr|"
+  - 1: null
+
+# Nieco więcej o dotacjach
+-
+  - 11: "img|header_05.png"
+  - 1:  "img|legal.png"
+
+-
+  - 11: "img|pic_05a.png"
+  - 1:  "img|help.png"
+
+-
+  - 11: 
+    - 9: "h5|Na co mozna przeznaczyc?"
+  - 1: "img|legal.png"
+
+-
+  - 11: 
+    - 9: "img|pic_05b.png"
+    - 3: "img|pic_05c.png"
+  - 1: "img|help.png"
+
+-
+  - 11: 
+    - 9: "h5|Gdzie mozna znalezc?"
+  - 1: "img|legal.png"
+
+-
+  - 11: 
+    - 9: "p|Lorem ipsum"
+  - 1: null
+
+-
+  - 11: 
+    - 9: "p|Lorem ipsum"
+  - 1: null
+
+-
+  - 11: 
+    - 9: "p|Lorem ipsum"
+  - 1: null
+
+-
+  - 11: 
+    - 9: "p|Lorem ipsum"
+  - 1: null
+
+# haerka
+-
+  - 11: "hr|"
+  - 1: null
+
+# Spowiedz z metodologii 
+-
+  - 11: "img|header_06.png"
+  - 1:  "img|help.png"
+
+-
+  - 11: 
+    - 9: "p|Lorem ipsum"
+  - 1: null
+
+# haerka
+-
+  - 11: "hr|"
+  - 1: null
