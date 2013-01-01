@@ -42,7 +42,7 @@ def parse_(elem):
         'p'   : u'<p>%s</p>' % lorem(),
         'h5'  : u'<h5>%s</h5>' % value,
         'img' : u'<img src="images/%s" />' % value,
-        'hr'  : '<hr />'
+        'hr'  : u'<hr />'
     }
 
     return tags.get(tag, '&nbsp;')
@@ -91,5 +91,6 @@ if __name__ == '__main__':
     fname = sys.argv[1]
     data  = yaml.load(codecs.open(fname, 'r', 'utf-8').read())
 
-    for row in data:
+    for i, row in enumerate(data):
+    	print '<!-- CHAPTER %d -->' % i
         process_(row)
